@@ -36,25 +36,18 @@
 |  30   |  [Conclusions](./30_Day_Conclusions/30_conclusions.md)      |
 
 🧡🧡🧡 HAPPY CODING 🧡🧡🧡
-<div>
-<small>Support the <strong>author</strong> to create more educational materials</small> <br />  
-<a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
-</div>
-
 
 <div align="center">
 
   <h1> 30 Days Of Python: Day 1 - Introduction</h1>
 
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/venkata-sreeram/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+    <img src="https://img.shields.io/badge/style--5eba00.svg?label=Github&logo=Github&style=social">
   </a>
 
   <sub>Author:
-  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+  <a href="https://www.linkedin.com/in/venkata-sreeram/" target="_blank">Venkata Sreeram</a><br>
   <small> First Edition: Nov 22 - Dec 22, 2019</small>
   </sub>
 </div>
